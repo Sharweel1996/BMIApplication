@@ -82,7 +82,7 @@ fun BMIScreen() {
                             .fillMaxWidth()
                             .align(Alignment.CenterHorizontally)
                     ) {
-                        Toast.makeText(context, "Shared Successfully!", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(context, "Shared Successfully..!!", Toast.LENGTH_SHORT).show()
                     }
                 }
             } else {
